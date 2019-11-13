@@ -1,6 +1,6 @@
-- [ ] add README
+- [x] add README
   - [ ] add documentation
-  - [ ] add examples
+  - [x] add examples
 - [ ] add license
 - [ ] add test suite
 - [ ] add setup script for pip
